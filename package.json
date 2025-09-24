@@ -1,0 +1,16 @@
+{
+  "name": "discord-openrouter-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord com IA brincalhona usando OpenRouter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2"
+  }
+}
